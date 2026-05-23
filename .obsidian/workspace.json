@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "d751726efa1a4089",
+    "type": "split",
+    "children": [
+      {
+        "id": "e75fd110b3bd2ae7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "079dfebd14baed70",
+            "type": "leaf",
+            "state": {
+              "type": "fountain",
+              "state": {
+                "file": "Dead-In-Detroit/DID.fountain",
+                "fountain": {
+                  "editing": true,
+                  "mode": "script"
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DID"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e99579e7af24075",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a7715bcf2f8721d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54418554a9339759",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fb8adbf3258faba4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "de0f8c8a32e50a95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "c74dd832df141e4e",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3cb6705fdff7cad3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e5c1ad876f92820",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81d665aabc0c7071",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Los-Kowloones/Characters/Elizabeeth IV.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Elizabeeth IV"
+            }
+          },
+          {
+            "id": "4dcefc95aa95edd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Los-Kowloones/Characters/Elizabeeth IV.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Elizabeeth IV"
+            }
+          },
+          {
+            "id": "a4c7e4025f28afdd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "022b6f468dac2c3e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4d006982c7705d23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Los-Kowloones/Characters/Elizabeeth IV.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Elizabeeth IV"
+            }
+          },
+          {
+            "id": "80bf572e6fe98329",
+            "type": "leaf",
+            "state": {
+              "type": "fountain-sidebar",
+              "state": {},
+              "icon": "list-tree",
+              "title": "Fountain Outline"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "fountain:New fountain document": false
+    }
+  },
+  "active": "54418554a9339759",
+  "lastOpenFiles": [
+    "Dead-In-Detroit/Wicke.md.md",
+    "Dead-In-Detroit/DID.fountain",
+    "Dead-In-Detroit/Dead-in-Detroit.fountain",
+    "Los-Kowloones/Manuscript/manuscript.md",
+    "Los-Kowloones/Untitled.fountain",
+    "Los-Kowloones/Index.md",
+    "Los-Kowloones/manuscript.md",
+    "Los-Kowloones/Manuscript/Index.md",
+    "Los-Kowloones/Index.md.tmp.61560.0f7b72006532",
+    "Los-Kowloones/Manuscript/Invocation of the Synthetic Deity.md",
+    "Los-Kowloones/Manuscript/Foothills.md",
+    "Los-Kowloones/Manuscript/Climbing.md",
+    "Los-Kowloones/Characters/Elizabeeth IV.md",
+    "Los-Kowloones/Research/Smart Home Connected Devices.md",
+    "Los-Kowloones/Research/Mining Bees.md",
+    "Los-Kowloones/Research",
+    "Los-Kowloones/Manuscript/Logistics.md",
+    "Los-Kowloones/Manuscript",
+    "Los-Kowloones/Ideas/Harsh & 517.md",
+    "Los-Kowloones/Ideas/OLD Invocation of the Synthetic Deity.md",
+    "Los-Kowloones/Ideas/Four Treatments.md",
+    "Los-Kowloones/Ideas",
+    "Los-Kowloones/Characters/harshal.png",
+    "Los-Kowloones/Characters/Sergeant Kim.md",
+    "Los-Kowloones/Characters/OTSI.md",
+    "Los-Kowloones/Characters/Jordan Simons Family Office.md",
+    "Los-Kowloones/Characters",
+    "Los-Kowloones",
+    "Welcome.md",
+    "Dead-In-Detroit"
+  ]
+}
