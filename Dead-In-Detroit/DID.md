@@ -1,6 +1,6 @@
 INt. underground zombie laboratory - night
 
-DOLORES, the cleaning lady,  pushes a mop through sinister underground hallways. She is wearing a standard cleaning outfit. A sign reads UNITED STATES DEPARTMENT OF HOMELAND SECURITY: ZOMBIE CONTROL.
+DOLORES, the cleaning lady, pushes a mop through sinister underground hallways. She is wearing a standard cleaning outfit. A sign reads UNITED STATES DEPARTMENT OF HOMELAND SECURITY: ZOMBIE CONTROL.
 
 CCTV POV (SILENT)
 
@@ -26,7 +26,7 @@ Chest medals and a name tag saying "GENERAL WAD" are affixed to a white backgrou
 
 BACK TO SCENE
 
-The General is also in full Quarantine gear, but with his hat, chest medals belt and boots applied afterwards. It's a marhmallow playing Army. GENERAL WAD comes to a rigid stop, blocking DOLORES path. His hands go behind his back. His faceplate puffs out as he shouts something we can't hear over the music. 
+The General is also in full Quarantine gear, but with his hat, chest medals belt and boots applied afterwards. It's a marhmallow playing Army. GENERAL WAD comes to a rigid stop, blocking DOLORES path. His hands go behind his back. His faceplate puffs out as he shouts something we can't hear over the music.
 
 DOLORES
 What? I can't hear you.
@@ -45,7 +45,7 @@ I don't think these actually work anymore. What are you doing here so late? I th
 
 The ZOMBIE is starting to line dance behind them as they argue. He stumbles around, but seems to know his moves. He executes a perfect boot slap, then falls into the window. WAD and DOLORES turn slowly to look at him.
 
-DOLORES raises her phone and hits "STOP". 
+DOLORES raises her phone and hits "STOP".
 
 CLOSE UP
 
