@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e75fd110b3bd2ae7",
+        "id": "cfff942059c5bdb0",
         "type": "tabs",
         "children": [
           {
-            "id": "079dfebd14baed70",
+            "id": "635d418a09edd57b",
             "type": "leaf",
             "state": {
               "type": "fountain",
               "state": {
                 "file": "Dead-In-Detroit/DID.fountain",
                 "fountain": {
-                  "editing": true,
+                  "editing": false,
                   "mode": "script"
                 }
               },
@@ -207,10 +207,13 @@
       "fountain:New fountain document": false
     }
   },
-  "active": "54418554a9339759",
+  "active": "635d418a09edd57b",
   "lastOpenFiles": [
-    "Dead-In-Detroit/Wicke.md.md",
+    "Dead-In-Detroit/DID.pdf",
     "Dead-In-Detroit/DID.fountain",
+    "Dead-In-Detroit/DID.md",
+    "Dead-In-Detroit/missfont.log",
+    "Dead-In-Detroit/Wicke.md.md",
     "Dead-In-Detroit/Dead-in-Detroit.fountain",
     "Los-Kowloones/Manuscript/manuscript.md",
     "Los-Kowloones/Untitled.fountain",
@@ -236,8 +239,6 @@
     "Los-Kowloones/Characters/OTSI.md",
     "Los-Kowloones/Characters/Jordan Simons Family Office.md",
     "Los-Kowloones/Characters",
-    "Los-Kowloones",
-    "Welcome.md",
-    "Dead-In-Detroit"
+    "Welcome.md"
   ]
 }
