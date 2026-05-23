@@ -1,0 +1,1 @@
+Not a honey bee! She is a miner bee, but the OTSI had no idea of that and treat her like she's a honey bee. This confuses her terribly.

@@ -1,0 +1,1 @@
+Born in Los Angeles, parent from Kowloon City
