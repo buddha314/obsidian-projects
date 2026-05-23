@@ -6,6 +6,21 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-05-23T15:03:38.218Z",
+      "total": 396,
+      "drafts": {
+        "Los-Kowloones/Index.md": {
+          "total": 396,
+          "scenes": {
+            "Invocation of the Synthetic Deity": 0,
+            "Foothills": 396,
+            "Logistics": 0,
+            "Climbing": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-05-23T00:30:39.323Z",
       "total": 3490,
       "drafts": {

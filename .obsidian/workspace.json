@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cfff942059c5bdb0",
+        "id": "fe359c4a534528e7",
         "type": "tabs",
         "children": [
           {
-            "id": "635d418a09edd57b",
+            "id": "c143bd68a5bbdcae",
             "type": "leaf",
             "state": {
-              "type": "fountain",
+              "type": "markdown",
               "state": {
-                "file": "Dead-In-Detroit/DID.fountain",
-                "fountain": {
-                  "editing": false,
-                  "mode": "script"
-                }
+                "file": "Los-Kowloones/Manuscript/Foothills.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "DID"
+              "title": "Foothills"
+            }
+          },
+          {
+            "id": "2f165088395c4e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Los-Kowloones/Manuscript/Invocation of the Synthetic Deity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Invocation of the Synthetic Deity"
             }
           }
         ]
@@ -86,7 +98,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,12 +196,22 @@
             "state": {
               "type": "fountain-sidebar",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "fountain-sidebar"
+            }
+          },
+          {
+            "id": "aec8f85694a23693",
+            "type": "leaf",
+            "state": {
+              "type": "fountain-sidebar",
+              "state": {},
               "icon": "list-tree",
               "title": "Fountain Outline"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -207,10 +230,14 @@
       "fountain:New fountain document": false
     }
   },
-  "active": "635d418a09edd57b",
+  "active": "c74dd832df141e4e",
   "lastOpenFiles": [
-    "Dead-In-Detroit/DID.pdf",
+    "Los-Kowloones/Ideas/Discards.md",
+    "Los-Kowloones/Manuscript/Foothills.md",
+    "Los-Kowloones/Manuscript/Climbing.md",
+    "Los-Kowloones/Manuscript/Invocation of the Synthetic Deity.md",
     "Dead-In-Detroit/DID.fountain",
+    "Dead-In-Detroit/DID.pdf",
     "Dead-In-Detroit/DID.md",
     "Dead-In-Detroit/missfont.log",
     "Dead-In-Detroit/Wicke.md.md",
@@ -221,9 +248,6 @@
     "Los-Kowloones/manuscript.md",
     "Los-Kowloones/Manuscript/Index.md",
     "Los-Kowloones/Index.md.tmp.61560.0f7b72006532",
-    "Los-Kowloones/Manuscript/Invocation of the Synthetic Deity.md",
-    "Los-Kowloones/Manuscript/Foothills.md",
-    "Los-Kowloones/Manuscript/Climbing.md",
     "Los-Kowloones/Characters/Elizabeeth IV.md",
     "Los-Kowloones/Research/Smart Home Connected Devices.md",
     "Los-Kowloones/Research/Mining Bees.md",
