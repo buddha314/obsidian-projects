@@ -87,3 +87,30 @@ Catching the branch in the frame and wrapping the tarp about the stick, he rappe
 "Yeah, he's my kid brother. FUCK! He wanted to see the fire. Such an idiot. I think my phone is broken." Harsh eyed the remains of his own.
 
 "It's okay. Just stay calm. I'll get us out of here." Ashes began to rain around them. Neither of them wanted her to move, so he dragged her on the tarp into a Twenty-One Forever. He piled some tops old enough to come back in style on her to keep her warm. The nearby fire had already been doing that, but it's a sweet gesture.
+
+They were on the third floor of the original structure. In the darkness it was hard to get a sense of the geography of the place. It was a massive cave system with linoleum floors. They had landed in a food court but he had moved them along one balcony closer to the storefronts. Harsh decided began a loop, his footsteps echoed back from the depths.
+
+"Do you think your brother will call? Will the police come to help?" Harsh learned to step lightly over the debris. There was a smell of water from below.
+
+"I don't know. Pretty pissed he just left me here." She stretched her leg and used a t-shirt to stop the bleeding. "He's pretty flakey, so we can count on him to not do the right thing.  Andy my parents won't know what to do. They are both first generation. We're going to have head to the new section in the back. The front is all boarded up."
+
+"It is?" He didn't have any keys, did he? Some many pockets in this belt. "Don't worry, miss. I have been trapped in the dark many times. But, here I am still." He found his flashlight, small and powerful. "I used to live in the mountains. We had a lot of wars. This army would come, that army would go. I used to make money finding things for this army the last army had left behind. That meant going into the caves a lot. And not always with a flashlight!" He pointed it at himself so she could see his big smile.
+
+Harsh did have a big smile atop a squat, torpedo-shaped body. Virtually no neck. He knew he looked strange to lowlanders. Up high, broad lungs, long legs and a strong back meant you could climb, climb climb for days on end. His face was soft and rounded, with curious eyes. He waved from across the breezeway.
+
+"In the mountains, we had oil fields. This was very important to the big superpowers. By the time I was born, my family had stopped raising goats and just learned to trade with the armies for things. Our whole village turned into merchants. A new base would open and we'd move next to it. My parents used to take us from place to place so we could sell to one army something we just bought from another. My father was mean, so I took the job of looking for stuff up the cliff walls.  That's what happened to me, I found a stash of Chinese grenades!" He held the light up again and wiggled to make Suchin laugh.
+
+"That's horrible. I'm sorry. Fuckin capitalists need their fucking wars. Fuck those guys, can't wait to burn them all down. We don't need oil, we can get all the energy we want from the sun and wind."  She has struggled upright, apparently ready to stand.
+
+"Yes, miss. Wars are bad. Good business for me, though. I sold a crate of machine guns to buy the ticket to move here." He was closing the loop back towards her. "My name is Harshal Golovkin, like the boxer!" He made a fist with his good hand.
+
+"I'm Suchin." She let him help her stand up, her confident pose betrayed immediately by her leg. 
+
+Probably too early for her to walk, Harsh noticed. She was slight of build, dark skin, maybe Asian? Her long hair was dyed green so not military. She looked... smart? Must be a college student. 
+
+"You are in school, right? You go to college? That must be exciting. I always wanted to go."
+
+"Never too late" Suchin said dryly. She put her leg on a trolley Harsh had found. They started off into the dark, Harsh kicking debris out of the way.
+
+"No! In the big countries you can go to college! What do you study? Are you going to be a doctor?" That had been the dream of his friend Second Lieutenant Daniel Kim, US Army. Danial had always said his whole title in crisp way, so that's how it resonated in Harhal's head.  Second Lieutenant Kim had gone to college and wanted to be an Army doctor. They had become very close, Harsh was inspired by Dan's unbridled curiosity of the mountain flora and fauna. When Daniel's tour ended, Harsh decided to move to America. Daniel helped him get this security job.
+

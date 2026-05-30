@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "cfff942059c5bdb0",
+        "id": "b48718b3944de3c4",
         "type": "tabs",
         "children": [
           {
-            "id": "635d418a09edd57b",
+            "id": "ae1e220431866335",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dead-In-Detroit/DID.md",
+                "file": "Los-Kowloones/Manuscript/Foothills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DID"
+              "title": "Foothills"
+            }
+          },
+          {
+            "id": "fe591c3c21c3854a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Los-Kowloones/Characters/harshal.png"
+              },
+              "icon": "lucide-image",
+              "title": "harshal"
             }
           }
         ]
@@ -205,11 +217,14 @@
       "fountain:New fountain document": false
     }
   },
-  "active": "54418554a9339759",
+  "active": "ae1e220431866335",
   "lastOpenFiles": [
+    "Los-Kowloones/Characters/harshal.png",
+    "Los-Kowloones/Manuscript/Foothills.md",
+    "Los-Kowloones/Manuscript/Climbing.md",
+    "Dead-In-Detroit/DID.md",
     "Los-Kowloones/Ideas/Discards.md",
     "Dead-In-Detroit/DID.fountain",
-    "Dead-In-Detroit/DID.md",
     "Dead-In-Detroit/DID.pdf",
     "Dead-In-Detroit/missfont.log",
     "Dead-In-Detroit/Wicke.md.md",
@@ -221,8 +236,6 @@
     "Los-Kowloones/Manuscript/Index.md",
     "Los-Kowloones/Index.md.tmp.61560.0f7b72006532",
     "Los-Kowloones/Manuscript/Invocation of the Synthetic Deity.md",
-    "Los-Kowloones/Manuscript/Foothills.md",
-    "Los-Kowloones/Manuscript/Climbing.md",
     "Los-Kowloones/Characters/Elizabeeth IV.md",
     "Los-Kowloones/Research/Smart Home Connected Devices.md",
     "Los-Kowloones/Research/Mining Bees.md",
@@ -233,7 +246,6 @@
     "Los-Kowloones/Ideas/OLD Invocation of the Synthetic Deity.md",
     "Los-Kowloones/Ideas/Four Treatments.md",
     "Los-Kowloones/Ideas",
-    "Los-Kowloones/Characters/harshal.png",
     "Los-Kowloones/Characters/Sergeant Kim.md",
     "Los-Kowloones/Characters/OTSI.md",
     "Los-Kowloones/Characters/Jordan Simons Family Office.md",
