@@ -6,44 +6,14 @@
   "sessionStorage": "data",
   "sessions": [
     {
-      "start": "2026-05-25T21:30:21.177Z",
-      "total": 995,
+      "start": "2026-05-30T14:50:08.893Z",
+      "total": 23,
       "drafts": {
         "Los-Kowloones/Index.md": {
-          "total": 995,
+          "total": 23,
           "scenes": {
             "Invocation of the Synthetic Deity": 0,
-            "Foothills": 995,
-            "Logistics": 0,
-            "Climbing": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2026-05-25T00:01:27.478Z",
-      "total": 0,
-      "drafts": {
-        "Los-Kowloones/Index.md": {
-          "total": 0,
-          "scenes": {
-            "Invocation of the Synthetic Deity": 0,
-            "Foothills": 0,
-            "Logistics": 0,
-            "Climbing": 0
-          }
-        }
-      }
-    },
-    {
-      "start": "2026-05-23T15:03:38.218Z",
-      "total": 396,
-      "drafts": {
-        "Los-Kowloones/Index.md": {
-          "total": 396,
-          "scenes": {
-            "Invocation of the Synthetic Deity": 0,
-            "Foothills": 396,
+            "Foothills": 23,
             "Logistics": 0,
             "Climbing": 0
           }
