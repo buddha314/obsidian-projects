@@ -1,4 +1,4 @@
-INt. underground zombie laboratory - night
+INT. underground zombie laboratory - night
 
 DOLORES, the cleaning lady, pushes a mop through sinister underground hallways. She is wearing a standard cleaning outfit. A sign reads UNITED STATES DEPARTMENT OF HOMELAND SECURITY: ZOMBIE CONTROL.
 
@@ -94,3 +94,6 @@ Nobody knows. That's why we called you.
 DOLORES and WAD are joined by RESEARCHES and SOLDIERS, all recoiling in shock and horror.
 
 OPENING CREDITS
+
+EXT. HOLLYWOOD HILLS -- LATer
+
