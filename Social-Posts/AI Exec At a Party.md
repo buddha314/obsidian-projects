@@ -1,0 +1,9 @@
+I've been doing AI since the early 90s, and the technology remains fascinating to me. I've also been a serious musician/writer since the 80s. It used to be that when I talked AI, people got excited and felt like they were having a conversation about the future, about something they could only comprehend through movies.
+
+Of course, that has changed. One thing you DON'T talk about at writers groups is AI. Bring it up at a gallery and you will be lynched (figuratively, of course).
+
+I am still brimming with excitement and enthusiasm about what this technology can bring us. I'm in climate & health, so I see protein discovery, cancer treatments, solar energy collection as the big winners from AI.  However, my fellow artists rightly see plagiarism, job loss and rampart exploitation by a wealthy oligarchy.
+
+How would my teenage self respond to this? I think he'd still be pretty punk rock about it. AI still can and will change the world for the better, but not by vapidly stealing art, and not at the hands of the current slate of intoxicated LLM CEOs out there. We need to get back to small, focused models that don't try to consume our lakes, and simply solve problems.
+
+It's a common hope that you are providing value to those around you. That somehow your existence matters. I feel in my bones that even the musicians in the tiny clubs late at night, the writers with four followers, and the artists showing in 150 sqft basements in LA are the reason we all look forward to the end of our work-day. The exist so can live the life we dreamed of as kids, at exciting parties discussing consequential things.  Science and Technology are certainly part of that, but... maybe not right now. 
