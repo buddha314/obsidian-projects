@@ -6,3 +6,10 @@ Note, I did not say "tire manufacturing", but I did say health care. And that's 
 
 Unfortunately, rare disease sufferers have to pray they can find someone at a research hospital who is already studying their disease.
 
+The increasing affordability of whole genome sequencing along with our developing understanding of emergent phenomenon means every disease will be a rare disease. I think of this as a sort of "diagnostic resolution". For instance, we know gut microbiomes are effectively unique. And these microbiomes can influence and maybe even cause things like Parkinson's.  Every disease becomes a rare disease. Not just rare, but singular.  No more tire factories.
+
+The flip side is what I think of as "therapeutic resolution". I mean, how cool is it that we can (for some disorders) manufacture specific proteins, insert them into specific cell or viruses, and deliver that to exactly the need area? Right? 
+
+If you are patient with my terms "diagnostic and therapeutic resolution", we now have what amounts to an infinite dimensional problem space.  And then we get to add longitudinality! That's Brownian motion! SDEs! (the crowd goes wild!)
+
+Man, this is gonna be fun. It's gonna be hard on traditional drug companies who are building massive tire-cum-drug-manufacturing castles to an old way of doing business.
